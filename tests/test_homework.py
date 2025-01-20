@@ -15,3 +15,4 @@ def test_01():
     pregunta.pregunta_01()
 
     assert os.path.exists("files/plots/news.png")
+
